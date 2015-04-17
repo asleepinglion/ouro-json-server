@@ -20,4 +20,4 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
 
 */
 
-module.exports.JsonServer = require('./modules/json-server/class');
+module.exports.JsonServer = require('./lib/json-server/class');
