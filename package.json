@@ -4,7 +4,7 @@
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Express-based JSON API server module with basic methods to handle requests and responses.",
   "main": "index.js",
   "repository": "https://github.com/asleepinglion/superjs-json-server",
