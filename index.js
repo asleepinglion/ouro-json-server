@@ -16,7 +16,7 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
                        SP                  SP
                        Y                   Y
 
-            -= SuperJS Express Server Module Loader =-
+            -= Ouro Express Server Module Loader =-
 
 */
 

@@ -1,15 +1,15 @@
 {
-  "name": "superjs-json-server",
+  "name": "ouro-json-server",
   "author": {
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.5",
+  "version": "0.9.0",
   "description": "Express-based JSON API server module with basic methods to handle requests and responses.",
   "main": "index.js",
-  "repository": "https://github.com/asleepinglion/superjs-json-server",
+  "repository": "https://github.com/asleepinglion/ouro-json-server",
   "dependencies": {
-    "superjs": "*",
+    "ouro": "*",
     "express": "*",
     "multer": "*",
     "cors": "*",
